@@ -5,7 +5,6 @@ app = Flask(__name__)
 
 # defining the enpoint for the url path /generate
 @app.route('/generate', methods=['POST'])
-
 def generate():
     # getting data from the request
     data = request.json
