@@ -23,34 +23,28 @@ This repository provides solutions to various coding challenges aimed at evaluat
 
 - **Objective**: Implement a generator, service that generates recommendations.
 - **Key Concepts**: Flask, Random, JSON.
-- **Code**: [generator.py](problems/generator.py)
 
 ### Problem 2: Invoker
 
 - **Objective**: Create an invoker, service that returns recommendations.
 - **Key Concepts**: Flask, Caching, Concurrency.
-- **Code**: [invoker.py](problems/invoker.py)
 
 ### Problem 3: Cheap Crowdfunding Problem
 
 - **Objective**: Develop an algorithm to simulate a crowdfunding platform with minimal overhead.
 - **Key Concepts**: Data structures, Optimization.
-- **Code**: [cheap_crowdfunding.py](problems/CheapCrowdfundingProblem.py)
 
 ### Problem 4: Get Headlines
 
 - **Objective**: Fetch and display headlines from an RSS feed.
 - **Key Concepts**: Web scraping, XML parsing, Requests.
-- **Code**: [get_headlines.py](problems/Get_Headlines.py)
 
 ### Problem 5: Streaming Payment Processor
 
 - **Objective**: Process a stream of payment data and compute checksums.
 - **Key Concepts**: Stream processing, Data I/O, Checksum computation, Binary I/O.
-- **Code**: [streaming_payment_processor.py](problems/StreamingPaymentProcessor.py)
 
 ### Problem 6: Streaming Payment Processor, Two Vendors Edition
 
 - **Objective**: Integrate two vendor APIs to process payment data and store results.
 - **Key Concepts**: API integration, Stream processing, Callback functions.
-- **Code**: [streaming_payment_processor_two_vendors.py](problems/StreamingPaymentsProcessorTwoVendors.py)
